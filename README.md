@@ -17,7 +17,7 @@ Installation :  pip install numpy matplotlib fuzzywuzzy scipy
 
 Instructions d'Utilisation
 
-Clonez ce dépôt sur votre machine :git clone https://github.com/votre-username/votre-depot.git
+Clonez ce dépôt sur votre machine :git clone https://github.com/OmarChokri/RCA-et-Visu-Termes-Docs-Biblio
 
 
 Assurez-vous que le fichier documents.txt est présent dans le répertoire.
@@ -48,5 +48,4 @@ Les graphiques des normes d'erreur et des temps d'exécution sont générés aut
 
 Auteur
 OMAR CHOKRI
-Licence
-Ce projet est sous licence MIT (ou autre licence de votre choix).
+
